@@ -49,4 +49,6 @@ dotnet run
 
 ## Demo
 
-https://syudou.ayanomi.io.vn/media/badaple.mp4
+![Bad Apple ASCII Demo](demo.gif)
+
+> 🎬 [Watch Full Video (MP4)](https://syudou.ayanomi.io.vn/media/badaple.mp4)
