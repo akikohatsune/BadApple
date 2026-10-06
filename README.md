@@ -49,4 +49,4 @@ dotnet run
 
 ## Demo
 
-https://github.com/user-attachments/assets/badaple.mp4
+https://github.com/akikohatsune/BadApple/blob/main/badaple.mp4
